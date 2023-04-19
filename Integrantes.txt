@@ -1,0 +1,7 @@
+Alumno 1: Luana 
+Alumno 2: Joaquin 
+Alumno 3: Mauricio 
+Alumno 4: Miguel 
+Alumno 5: Emanuel 
+Alumno 6: Diego
+Alumno 7: Nicolas
